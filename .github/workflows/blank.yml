@@ -1,0 +1,133 @@
+<html>
+    <head>
+            <link href="style.css" rel="stylesheet">
+            <title> Nicholas Ting </title>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+            styledimg {
+background-image: url(path);
+background-repeat: no-repeat;
+width: 10px;
+height: 20px;
+}
+    </head>
+
+    <body>
+        <header id="header">
+            <!-- resume header with your name and title -->
+            <h1><b>NICHOLAS TING</b></h1>
+            <hr>
+           BUSINESS UNDERGRADUATE AT NANYANG BUSINESS SCHOOL | NATIONAL ATHLETE
+        </header>
+        <main>
+            <article id="mainLeft"
+            <mainRight>
+                <section>
+                    <img src="https://media.licdn.com/dms/image/D5603AQG7TyNuT55ERg/profile-displayphoto-shrink_800_800/0/1677741781743?e=2147483647&v=beta&t=pJQCPfuPFNK9arv5tjE3MKX0F8BsRy9dyB7DLT8hHD4" alt="Photo" style="width:128px;height:128px;">
+                    <h2>CONTACT</h2>
+                    <!-- contact info including social media-->
+                    <p>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <a href="mailto:nicholas.ting01@gmail.com">nicholas.ting01@gmail.com</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-github" aria-hidden="true"></i>
+                        <a href="https://github.com/nicholas-ting">nicholas-ting</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-linkedin" aria-hidden="true"></i>
+                        <a href="https://sg.linkedin.com/in/nicholas-ting01">nicholas-ting01</a>
+                    </p>
+	
+                </section>
+				<section>
+					<h2>EDUCATION</h2>
+                    <b>Bachelor of Business</b>
+                    <br>
+                    <i>Specialisation in Business Analytics</i>
+                    <p>
+                        Nanyang Technological University
+                    </p>
+                    <p>
+                        2022 - Present
+                    </p>
+                    <b>GCSE A Levels</b>
+	<p>
+		Raffles Institution
+	</p>
+	<p>
+		2014 - 2019
+	</p>
+
+
+				</section>     
+                <section>
+					<h2>SKILLS</h2>
+					<!-- your skills AKA "buzzwords" -->
+                    <p>Competent: MS Office, MS Excel, MS PowerPoint</p>
+                    <p>Beginner: SQL, Python, HTML, CSS, GitHub</p>
+				</section>
+                <section>
+					<h2>LANGUAGES
+                    </h2>
+                    <p>English (Written & Spoken), Chinese (Written & Spoken)</p>
+				</section>              
+			</article>
+        </mainRight>
+			<article id="mainRight">
+                <mainRight>
+				<section>
+					<h2>ABOUT</h2>
+					<!-- about you -->
+                    <p>I'm a business student studying to better understand how different mythologies and theories could best fit the ever changing industries. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. My friends would describe me as a hardworking, resourceful individual who maintains a positive, proactive attitude when faced with adversity. In the near future, I'm seeking opportunities that will allow me to develop myself individually, upgrading on my skills & expertise so as to excel in my work performances. </p>
+				</section>
+				<section>
+					<h2>WORK EXPERIENCE</h2>
+					<!-- your work experience -->
+                    <h3><b>DIGITAL TRUST INTERN</b></h3>
+<p>
+		KPMG | MAY 2022 - JULY 2022
+</p>
+<p>
+		<!-- Describe what you did in this position with one summary sentence and no more than 3 bullet points with specific highlights-->
+</p>
+<ul>
+		<li>xxxx</li>
+		<li>xxxx</li>
+		<li>xxxx</li>
+</ul>
+<br>
+                    <h3><b>HUMAN RESOURCE INTERN</b></h3>
+<p>
+		Recruit Express | FEB 2020 - APR 2020
+</p>
+<ul>
+		<li>Assisted in job-searching and job-matching for potential employees</li>
+		<li>Liaised with various companies’ human resource departments to searching for potential job openings</li>
+</ul>
+<br>
+<h3><b>NAVAL OFFICER</b></h3>
+<p>
+		Republic of Singapore Navy | APR 2020 - MAR 2022
+</p>
+<p>
+		National Service
+</p>
+<ul>
+		<li>Commanded a team of 25 to complete base operations 24/7 and provide base security</li>
+		<li>Handled the procurement of base transportation throughout the Covid period to reduce possible infection transmission</li>
+</ul>
+				</section>
+            </mainRight>
+			</article>
+		</main>
+	</body>
+        </main>
+    </body>
+    <main>
+        <article>
+
+        </article>
+        <article>
+
+        </article>
+    </main>
